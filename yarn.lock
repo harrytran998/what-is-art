@@ -580,6 +580,43 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@harrytran/what-is-art@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@harrytran/what-is-art@workspace:."
+  dependencies:
+    "@ls-lint/ls-lint": 1.10.0
+    "@sucrase/jest-plugin": 2.2.0
+    "@techmely/eslint-config-ts": 1.0.1
+    "@techmely/types": 0.0.3
+    "@types/eslint": 8.2.1
+    "@types/jest": 27.0.3
+    "@types/node": 17.0.0
+    "@typescript-eslint/eslint-plugin": 5.7.0
+    "@typescript-eslint/parser": 5.7.0
+    "@yarnpkg/sdks": 2.5.1-rc.6
+    bundlesize: 0.18.1
+    eslint: 8.5.0
+    eslint-config-airbnb-base: 15.0.0
+    eslint-config-prettier: 8.3.0
+    eslint-plugin-html: 6.2.0
+    eslint-plugin-import: 2.25.3
+    eslint-plugin-jest: 25.3.0
+    eslint-plugin-jsdoc: 37.2.8
+    eslint-plugin-jsonc: 2.0.0
+    eslint-plugin-promise: 6.0.0
+    eslint-plugin-simple-import-sort: 7.0.0
+    eslint-plugin-unicorn: 39.0.0
+    eslint-plugin-yml: 0.12.0
+    jest: 27.4.5
+    jscpd: 3.4.2
+    rimraf: 3.0.2
+    sucrase: 3.20.3
+    turbo: 1.0.19
+    typescript: 4.5.4
+    yaml-eslint-parser: 0.5.0
+  languageName: unknown
+  linkType: soft
+
 "@humanwhocodes/config-array@npm:^0.9.2":
   version: 0.9.2
   resolution: "@humanwhocodes/config-array@npm:0.9.2"
@@ -7085,43 +7122,6 @@ __metadata:
   checksum: a04c07bb9e2d8f46776517d4618f2406fb977a74d914ad98b264fc3db0fe8224da5bec11e5f8902c5b9bcb8ace22d95fbe3c7b36b8593b7dfc8391a25898f32f
   languageName: node
   linkType: hard
-
-"template-template-monorepo-typescript@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "template-template-monorepo-typescript@workspace:."
-  dependencies:
-    "@ls-lint/ls-lint": 1.10.0
-    "@sucrase/jest-plugin": 2.2.0
-    "@techmely/eslint-config-ts": 1.0.1
-    "@techmely/types": 0.0.3
-    "@types/eslint": 8.2.1
-    "@types/jest": 27.0.3
-    "@types/node": 17.0.0
-    "@typescript-eslint/eslint-plugin": 5.7.0
-    "@typescript-eslint/parser": 5.7.0
-    "@yarnpkg/sdks": 2.5.1-rc.6
-    bundlesize: 0.18.1
-    eslint: 8.5.0
-    eslint-config-airbnb-base: 15.0.0
-    eslint-config-prettier: 8.3.0
-    eslint-plugin-html: 6.2.0
-    eslint-plugin-import: 2.25.3
-    eslint-plugin-jest: 25.3.0
-    eslint-plugin-jsdoc: 37.2.8
-    eslint-plugin-jsonc: 2.0.0
-    eslint-plugin-promise: 6.0.0
-    eslint-plugin-simple-import-sort: 7.0.0
-    eslint-plugin-unicorn: 39.0.0
-    eslint-plugin-yml: 0.12.0
-    jest: 27.4.5
-    jscpd: 3.4.2
-    rimraf: 3.0.2
-    sucrase: 3.20.3
-    turbo: 1.0.19
-    typescript: 4.5.4
-    yaml-eslint-parser: 0.5.0
-  languageName: unknown
-  linkType: soft
 
 "terminal-link@npm:^2.0.0":
   version: 2.1.1
