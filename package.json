@@ -40,7 +40,7 @@
     "eslint-plugin-html": "6.2.0",
     "eslint-plugin-import": "2.25.3",
     "eslint-plugin-jest": "25.3.0",
-    "eslint-plugin-jsdoc": "37.2.8",
+    "eslint-plugin-jsdoc": "37.4.0",
     "eslint-plugin-jsonc": "2.0.0",
     "eslint-plugin-promise": "6.0.0",
     "eslint-plugin-simple-import-sort": "7.0.0",
